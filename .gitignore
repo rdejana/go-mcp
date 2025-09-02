@@ -29,7 +29,9 @@ go.work.sum
 
 # Editor/IDE
 .idea/
-.idea/*
+.idea/go-mcp.iml
+.idea/modules.xml
+.idea/vcs.xml
 # .vscode/
 
 bin/
